@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "god of war",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "super smash bros melee",
+        "price": 74.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "kingdom hearts",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "luigi's mansion",
+        "price": 49.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "mario superstar baseball",
+        "price": 68.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "mario sunshine",
+        "price": 54.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "halo 2",
+        "price": 27.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "metroid prime",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "resident evil 4",
+        "price": 15.99,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "simpsons hit & run",
+        "price": 9.99,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "mario party 5",
+        "price": 39.99,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "pikmin",
+        "price": 44.99,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpeg" } } }
+      }
+    }
+  ]
+}
